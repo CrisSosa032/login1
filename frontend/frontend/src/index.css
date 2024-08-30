@@ -1,6 +1,9 @@
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: Poppins, Arial, sans-serif;
 
+  color: regba(255, 255, 255, 0,87);
+  background: rgb(6,36,0);
+background: linear-gradient(29deg, rgba(6,36,0,1) 5%, rgba(83,223,61,0.9248949579831933) 46%, rgba(7,165,73,1) 100%);
 }
 
 
